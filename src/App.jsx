@@ -1,5 +1,6 @@
 import './App.css'
 import EcommerceNavbar from './Components/EcommerceNavbar'
+import Footer from './Components/Footer'
 import Hero from './Components/Hero'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
      <EcommerceNavbar/>
      <Hero/>
+     <Footer/>
     </>
   )
 }
