@@ -36,7 +36,7 @@ export default function FAQ() {
         {/* Why Vortex Section */}
         <div className="text-center mb-16">
           <span className="text-indigo-600 font-bold uppercase tracking-[0.3em] text-xs mb-4 block">Our Promises</span>
-          <h2 className="text-4xl md:text-5xl font-black text-zinc-900 uppercase">Keno <span className="text-indigo-600">Vortex</span> e-kinben?</h2>
+          <h2 className="text-4xl md:text-5xl font-black text-zinc-900 uppercase">Keno <span className="text-indigo-600">KINBE</span> e-kinben?</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-32">
